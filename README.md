@@ -10,7 +10,7 @@ This project is built using **HTML, CSS, and JavaScript** and focuses on clean U
 - 🔐 User Authentication (Login & Sign Up)
 - 🏨 Hotel Booking Page
 - ✈️ Travel Booking Interface
-- 📝 Blog Creation 
+- 📝 Blog Creation Page
 - 🎨 Responsive and user-friendly UI
 - 📂 Modular structure with separate HTML, CSS, and JS files
 
