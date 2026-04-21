@@ -1,4 +1,4 @@
-# 🌍 Travel & Hotel Booking Web Project 
+ 
 
 A front-end web project that demonstrates a **travel and hotel booking system** with user authentication and blog creation features.  
 This project is built using **HTML, CSS, and JavaScript** and focuses on clean UI design and basic client-side functionality.
