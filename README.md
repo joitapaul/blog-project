@@ -4,7 +4,7 @@ A front-end web project that demonstrates a **travel and hotel booking system** 
 This project is built using **HTML, CSS, and JavaScript** and focuses on clean UI design and basic client-side functionality.
 
 ---
-
+# Features
 
 - 🔐 User Authentication (Login & Sign Up)
 - 🏨 Hotel Booking Page
